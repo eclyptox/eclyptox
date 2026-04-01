@@ -1,10 +1,12 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║           BACKEND ENGINEER  ·  TEAM LEAD  ·  AI ARCHITECT   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Engineer-00D9FF?style=for-the-badge&logoColor=0D1117&color=0D1117&labelColor=00D9FF" />
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/Team%20Lead-00D9FF?style=for-the-badge&logoColor=0D1117&color=0D1117&labelColor=00D9FF" />
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/AI%20Architect-00D9FF?style=for-the-badge&logoColor=0D1117&color=0D1117&labelColor=00D9FF" />
+</p>
 
 # eclyptox
 
@@ -79,7 +81,7 @@ When I'm not debugging a production anomaly or reviewing a PR, I'm exploring how
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eclyptox&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com?user=eclyptox&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
 
