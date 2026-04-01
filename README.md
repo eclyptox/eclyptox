@@ -73,7 +73,7 @@ When I'm not debugging a production anomaly or reviewing a PR, I'm exploring how
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eclyptox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=eclyptox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="170" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclyptox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="170" />
 
