@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner.svg">
-  <img src="assets/profile-banner.svg" alt="eclyptox — Backend &amp; AI Automation Engineer" width="900" />
+  <img src="assets/profile-banner.svg" alt="eclyptox — Backend & AI Automation Engineer" width="900" />
 </picture>
 
 </div>
