@@ -1,121 +1,183 @@
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Backend%20Engineer-00D9FF?style=for-the-badge&logoColor=0D1117&color=0D1117&labelColor=00D9FF" />
-  &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/Team%20Lead-00D9FF?style=for-the-badge&logoColor=0D1117&color=0D1117&labelColor=00D9FF" />
-  &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/AI%20Architect-00D9FF?style=for-the-badge&logoColor=0D1117&color=0D1117&labelColor=00D9FF" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner.svg">
+  <img src="assets/profile-banner.svg" alt="eclyptox — Backend & AI Automation Engineer" width="900" />
+</picture>
 
-# eclyptox
+</div>
 
-**Building scalable systems. Shipping reliable products. Automating everything in between.**
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%7C+Team+Lead;PHP+%7C+Symfony+%7C+Laravel+%7C+MySQL;DevOps+%7C+Docker+%7C+GitLab+CI%2FCD;AI+Workflows+%7C+LLM+Integration+%7C+Automation;Scalable+Architecture+%7C+Production+Debugging)](https://git.io/typing-svg)
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
 
 </div>
 
 ---
 
-## 〉 About Me
+## About
 
 ```yaml
-name:        eclyptox
-role:        Senior Backend Engineer & Team Lead
-focus:
-  - Scalable microservices & distributed systems
-  - High-throughput ecommerce platforms
-  - Production observability & performance engineering
-  - AI-powered automation pipelines & LLM workflows
-  - Developer experience & engineering culture
-philosophy:  "Ship fast, observe everything, break nothing in production."
+role:    Backend & AI Automation Engineer
+stack:   PHP · Symfony · Elasticsearch · MariaDB · Redis · RabbitMQ · Docker
+focus:   Ecommerce platforms · Search systems · AI integrations · IoT automation
+based:   Spain
 ```
 
-I architect and lead backend systems that handle real load — from ecommerce platforms processing thousands of transactions per minute to event-driven pipelines powered by AI agents. I care deeply about **code quality, system reliability, and team velocity**.
+I build backend systems for products that need to handle real complexity — ecommerce platforms with high transaction volume, search experiences powered by Elasticsearch, event-driven architectures with clean domain models, and automation workflows that replace manual work with reliable processes.
 
-When I'm not debugging a production anomaly or reviewing a PR, I'm exploring how **LLMs and AI agents** can replace the boring parts of engineering.
+Architecturally I work with **DDD, Hexagonal Architecture and CQRS** in PHP/Symfony. I care about systems that are explicit, testable and maintainable — not clever.
 
----
+Currently deepening my work at the intersection of **backend engineering and applied AI**: integrating LLMs into real applications, building automation agents, exploring hybrid and semantic search, and connecting intelligent workflows to physical systems via Home Assistant.
 
-## 〉 Tech Stack
-
-### ⚙️ Backend & Frameworks
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Data & Messaging
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### 🐳 DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### 🤖 AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Most of my production work lives in private repositories for ecommerce, billing, search and automation platforms. What is public reflects the range: Symfony/Sylius integrations, Home Assistant components, and ongoing experiments.
 
 ---
 
-## 〉 GitHub Stats
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Intelligent backend systems**
+APIs, distributed workflows, ecommerce engines, billing, payments, external integrations. Built with PHP, Symfony, DDD and event-driven patterns.
+
+</td>
+<td width="50%" valign="top">
+
+**Search and retrieval**
+Full-text search, relevance tuning, semantic search and vector-based retrieval with Elasticsearch. Moving towards hybrid search and RAG pipelines.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI and automation**
+Workflow orchestration, content processing, operational automation, internal tooling and assistants powered by LLMs. Honest experiments, not buzzword claims.
+
+</td>
+<td width="50%" valign="top">
+
+**Connected products**
+Home Assistant integrations, ESPHome, IoT sensors and maker projects. Three public components for real devices used daily. Automation that works in the physical world.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Work
+
+> Most production work is in private repositories. These public projects represent real, useful tools.
+
+| Project | What it does | Stack |
+|---|---|---|
+| [SyliusRedsysPlugin](https://github.com/eclyptox/SyliusRedsysPlugin) | Redsys payment gateway integration for Sylius ecommerce. Production-ready, actively used. | PHP · Symfony · Sylius |
+| [aqualia-ha](https://github.com/eclyptox/aqualia-ha) | Home Assistant integration that fetches Aqualia water meter consumption and exposes it as sensors. | Python · Home Assistant |
+| [switchbot-hub-component](https://github.com/eclyptox/switchbot-hub-component) | Custom Home Assistant component for SwitchBot Hub device control. | Python · Home Assistant |
+| [niba-ha](https://github.com/eclyptox/niba-ha) | Home Assistant custom integration component. | Python · Home Assistant |
+
+---
+
+## AI Automation Lab
+
+Currently exploring and building towards:
+
+- **Hybrid and semantic search** — dense + sparse retrieval, reranking, Elasticsearch vector search
+- **RAG pipelines** — retrieval-augmented generation with Elasticsearch as the knowledge backend
+- **LLM integrations in Symfony** — clean agent patterns, tool calling, prompt management
+- **Workflow automation** — orchestrated pipelines that replace manual operational tasks
+- **MCP tooling** — Model Context Protocol implementations and integrations
+- **Intelligent home automation** — Home Assistant + LLM integrations for context-aware automations
+
+> This is an active direction, not a completed portfolio. Code and experiments will be published as they mature.
+
+---
+
+## Technology Map
+
+<details>
+<summary><strong>Backend &amp; Architecture</strong></summary>
+
+PHP · Symfony · Doctrine · Sylius · APIs · REST · event-driven design
+
+DDD · Hexagonal Architecture · CQRS · Bounded contexts · Domain events
+
+</details>
+
+<details>
+<summary><strong>Search &amp; Data</strong></summary>
+
+Elasticsearch · MariaDB · MySQL · Redis · vector search · hybrid search · full-text relevance
+
+</details>
+
+<details>
+<summary><strong>AI &amp; Automation</strong></summary>
+
+LLM integrations · RAG · AI agents · workflow automation · MCP · prompt-driven tooling · OpenAI API
+
+</details>
+
+<details>
+<summary><strong>Infrastructure</strong></summary>
+
+Docker · Linux · Nginx · CI/CD · RabbitMQ · Cloudflare
+
+</details>
+
+<details>
+<summary><strong>Connected Systems</strong></summary>
+
+Home Assistant · ESPHome · ESP32 · IoT · HACS integrations
+
+</details>
+
+---
+
+## Engineering Principles
+
+- Solve the problem before adding complexity
+- Explicit domain models over implicit conventions
+- Reliable automation is better than clever automation
+- AI with sources, validation and fallbacks — not hallucination as a feature
+- Systems that are useful outside the demo
+- Maintainable architecture outlasts clever code
+
+---
+
+## Now Building
+
+- AI-enhanced search platform — hybrid retrieval and semantic reranking on top of Elasticsearch
+- Automation tools for ecommerce operations and advertising integrations
+- Smarter Home Assistant workflows with LLM context awareness
+- Developer tooling powered by LLMs for internal productivity
+- MCP server experiments in PHP
+
+---
+
+## Contact
+
+<!-- TODO: Add LinkedIn URL when ready to make it public -->
+<!-- TODO: Add personal website or blog URL if applicable -->
+<!-- TODO: Add public contact email if desired -->
+
+GitHub is the primary public presence for now. Feel free to open an issue on any repository.
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eclyptox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclyptox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=eclyptox&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
-</div>
-
----
-
-## 〉 Currently Building / Exploring
-
-```
-🔬  AI agent orchestration for automated code review & deployment checks
-⚡  LLM-powered ecommerce personalization pipelines (RAG + vector search)
-🧱  Event-sourced microservice foundations with Symfony Messenger + RabbitMQ
-🔭  Observability stacks: OpenTelemetry → Grafana → Loki → Tempo
-🛡️  Zero-downtime deployment strategies with blue/green + feature flags
-```
-
----
-
-## 〉 Areas of Expertise
-
-| Domain | Depth |
-|---|---|
-| High-traffic PHP applications | ████████████ Expert |
-| Ecommerce platforms at scale | ███████████░ Senior |
-| Event-driven architecture | ███████████░ Senior |
-| Search & relevance (Elasticsearch) | ██████████░░ Senior |
-| AI workflow integration | █████████░░░ Advanced |
-| DevOps & CI/CD automation | ███████████░ Senior |
-| Production debugging & observability | ████████████ Expert |
-| Engineering team leadership | ███████████░ Senior |
-
----
-
-<div align="center">
-
-*Crafted with precision. Deployed with confidence.*
+<sub>Based in Spain · Building systems that work in production, not just in demos.</sub>
 
 </div>
